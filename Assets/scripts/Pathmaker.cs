@@ -19,6 +19,13 @@ public class Pathmaker : MonoBehaviour {
 	private int counter = 0;  // counter var will track how many floor tiles I've instantiated
 //	Declare a public Transform called floorPrefab, assign the prefab in inspector;
 	public Transform floorPrefab;
+
+	public Transform fishPrefab;
+
+	public Transform OctopusPrefab;
+
+	public Transform crabPrefab;
+	
 //	Declare a public Transform called pathmakerSpherePrefab, assign the prefab in inspector; 		// you'll have to make a "pathmakerSphere" prefab later
 
 	public Transform pathmakerSpherePrefab;
@@ -63,6 +70,8 @@ public class Pathmaker : MonoBehaviour {
 			else if (randNum >= 0.99f && randNum <= 1.0f)
 			{
 				Instantiate(pathmakerSpherePrefab, transform.position, Quaternion.Euler(0, 0, 0));
+				Debug.Log("Hey");
+				
 			}
 			//			// end elseIf
 			

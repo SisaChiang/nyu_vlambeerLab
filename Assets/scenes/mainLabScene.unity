@@ -224,6 +224,24 @@ Prefab:
       value: 
       objectReference: {fileID: 4572142853989990, guid: 6f87a9994695e4b49820aa5f8d445240,
         type: 2}
+    - target: {fileID: 114105382794742688, guid: 6f87a9994695e4b49820aa5f8d445240,
+        type: 2}
+      propertyPath: fishPrefab
+      value: 
+      objectReference: {fileID: 4698147139074060, guid: 4800c649c41b04a3188cff781a014627,
+        type: 2}
+    - target: {fileID: 114105382794742688, guid: 6f87a9994695e4b49820aa5f8d445240,
+        type: 2}
+      propertyPath: OctopusPrefab
+      value: 
+      objectReference: {fileID: 4031521440088062, guid: 07648acd3fde94deb9b352e636dad375,
+        type: 2}
+    - target: {fileID: 114105382794742688, guid: 6f87a9994695e4b49820aa5f8d445240,
+        type: 2}
+      propertyPath: crabPrefab
+      value: 
+      objectReference: {fileID: 4372021016289306, guid: 288642779e96845d99e77d757e2cd79b,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f87a9994695e4b49820aa5f8d445240, type: 2}
   m_IsPrefabAsset: 0
