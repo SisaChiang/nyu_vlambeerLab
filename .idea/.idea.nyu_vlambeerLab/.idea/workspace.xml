@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9919c1fb-a753-421b-9f13-dedde0204a26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.nyu_vlambeerLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.nyu_vlambeerLab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefabs/crab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefabs/crab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefabs/fish.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefabs/fish.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefabs/octopus.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefabs/octopus.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/scenes/mainLabScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scenes/mainLabScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/scripts/Pathmaker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Pathmaker.cs" afterDir="false" />
     </list>
@@ -25,12 +28,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="893" />
+          <entry key="cs" value="963" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="893" />
+          <entry key="C#" value="963" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -52,29 +55,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/scripts/Pathmaker.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-214">
-              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+            <state relative-caret-position="145">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
               <folding>
-                <marker date="1540877592000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1540877592000" expanded="true" signature="80:444" ph="/* MAZE PROC GEN LAB ... */" />
-                <marker date="1540877592000" expanded="true" signature="485:2723" ph="{...}" />
-                <marker date="1540877592000" expanded="true" signature="488:723" ph="/* STEP 2: ============================================================================================ ... */" />
-                <marker date="1540877592000" expanded="true" signature="1323:1414" ph="{...}" />
-                <marker date="1540877592000" expanded="true" signature="1432:2720" ph="{...}" />
-                <marker date="1540877592000" expanded="true" signature="1463:1495" ph="{...}" />
-                <marker date="1540877592000" expanded="true" signature="1563:2584" ph="{...}" />
-                <marker date="1540877592000" expanded="true" signature="1770:1815" ph="{...}" />
-                <marker date="1540877592000" expanded="true" signature="1934:1980" ph="{...}" />
-                <marker date="1540877592000" expanded="true" signature="2139:2236" ph="{...}" />
-                <marker date="1540877592000" expanded="true" signature="2240:2320" ph="/* end elseIf ... */" />
-                <marker date="1540877592000" expanded="true" signature="2588:2677" ph="/* Else: ... */" />
-                <marker date="1540877592000" expanded="true" signature="2684:2716" ph="{...}" />
-                <marker date="1540877592000" expanded="true" signature="2724:2777" ph="/* end of class scope ... */" />
-                <marker date="1540877592000" expanded="true" signature="2782:3504" ph="/* STEP 3: ===================================================================================== ... */" />
-                <marker date="1540877592000" expanded="true" signature="3508:3906" ph="/* STEP 4: ====================================================================================== ... */" />
-                <marker date="1540877592000" expanded="true" signature="3910:4340" ph="/* STEP 5: =================================================================================== ... */" />
-                <marker date="1540877592000" expanded="true" signature="4344:5214" ph="/* STEP 6:  ===================================================================================== ... */" />
-                <marker date="1540877592000" expanded="true" signature="5218:6483" ph="/* OPTIONAL EXTRA TASKS TO DO, IF YOU WANT: =================================================== ... */" />
+                <marker date="1540879163000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1540879163000" expanded="true" signature="80:444" ph="/* MAZE PROC GEN LAB ... */" />
+                <marker date="1540879163000" expanded="true" signature="485:2727" ph="{...}" />
+                <marker date="1540879163000" expanded="true" signature="488:723" ph="/* STEP 2: ============================================================================================ ... */" />
+                <marker date="1540879163000" expanded="true" signature="1230:1321" ph="{...}" />
+                <marker date="1540879163000" expanded="true" signature="1339:2724" ph="{...}" />
+                <marker date="1540879163000" expanded="true" signature="1370:1402" ph="{...}" />
+                <marker date="1540879163000" expanded="true" signature="1470:2588" ph="{...}" />
+                <marker date="1540879163000" expanded="true" signature="1677:1722" ph="{...}" />
+                <marker date="1540879163000" expanded="true" signature="1841:1887" ph="{...}" />
+                <marker date="1540879163000" expanded="true" signature="2046:2170" ph="{...}" />
+                <marker date="1540879163000" expanded="true" signature="2174:2254" ph="/* end elseIf ... */" />
+                <marker date="1540879163000" expanded="true" signature="2592:2681" ph="/* Else: ... */" />
+                <marker date="1540879163000" expanded="true" signature="2688:2720" ph="{...}" />
+                <marker date="1540879163000" expanded="true" signature="2728:2781" ph="/* end of class scope ... */" />
+                <marker date="1540879163000" expanded="true" signature="2786:3508" ph="/* STEP 3: ===================================================================================== ... */" />
+                <marker date="1540879163000" expanded="true" signature="3512:3910" ph="/* STEP 4: ====================================================================================== ... */" />
+                <marker date="1540879163000" expanded="true" signature="3914:4344" ph="/* STEP 5: =================================================================================== ... */" />
+                <marker date="1540879163000" expanded="true" signature="4348:5218" ph="/* STEP 6:  ===================================================================================== ... */" />
+                <marker date="1540879163000" expanded="true" signature="5222:6487" ph="/* OPTIONAL EXTRA TASKS TO DO, IF YOU WANT: =================================================== ... */" />
               </folding>
             </state>
           </provider>
@@ -119,9 +122,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="718" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="415" />
+    <option name="y" value="36" />
+    <option name="width" value="948" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
@@ -183,12 +188,12 @@
       <workItem from="1540493373579" duration="12000" />
       <workItem from="1540494422812" duration="4000" />
       <workItem from="1540494632077" duration="5220000" />
-      <workItem from="1540864031065" duration="780000" />
+      <workItem from="1540864031065" duration="2260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6016000" />
+    <option name="totallyTimeSpent" value="7496000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,10 +205,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="23" width="1440" height="851" extended-state="0" />
+    <frame x="415" y="36" width="948" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18097281" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -217,9 +222,9 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32806325" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32768363" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" weight="0.32891566" />
       <window_info anchor="bottom" id="Unity" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -263,29 +268,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/scripts/Pathmaker.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-214">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        <state relative-caret-position="145">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
           <folding>
-            <marker date="1540877592000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540877592000" expanded="true" signature="80:444" ph="/* MAZE PROC GEN LAB ... */" />
-            <marker date="1540877592000" expanded="true" signature="485:2723" ph="{...}" />
-            <marker date="1540877592000" expanded="true" signature="488:723" ph="/* STEP 2: ============================================================================================ ... */" />
-            <marker date="1540877592000" expanded="true" signature="1323:1414" ph="{...}" />
-            <marker date="1540877592000" expanded="true" signature="1432:2720" ph="{...}" />
-            <marker date="1540877592000" expanded="true" signature="1463:1495" ph="{...}" />
-            <marker date="1540877592000" expanded="true" signature="1563:2584" ph="{...}" />
-            <marker date="1540877592000" expanded="true" signature="1770:1815" ph="{...}" />
-            <marker date="1540877592000" expanded="true" signature="1934:1980" ph="{...}" />
-            <marker date="1540877592000" expanded="true" signature="2139:2236" ph="{...}" />
-            <marker date="1540877592000" expanded="true" signature="2240:2320" ph="/* end elseIf ... */" />
-            <marker date="1540877592000" expanded="true" signature="2588:2677" ph="/* Else: ... */" />
-            <marker date="1540877592000" expanded="true" signature="2684:2716" ph="{...}" />
-            <marker date="1540877592000" expanded="true" signature="2724:2777" ph="/* end of class scope ... */" />
-            <marker date="1540877592000" expanded="true" signature="2782:3504" ph="/* STEP 3: ===================================================================================== ... */" />
-            <marker date="1540877592000" expanded="true" signature="3508:3906" ph="/* STEP 4: ====================================================================================== ... */" />
-            <marker date="1540877592000" expanded="true" signature="3910:4340" ph="/* STEP 5: =================================================================================== ... */" />
-            <marker date="1540877592000" expanded="true" signature="4344:5214" ph="/* STEP 6:  ===================================================================================== ... */" />
-            <marker date="1540877592000" expanded="true" signature="5218:6483" ph="/* OPTIONAL EXTRA TASKS TO DO, IF YOU WANT: =================================================== ... */" />
+            <marker date="1540879163000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540879163000" expanded="true" signature="80:444" ph="/* MAZE PROC GEN LAB ... */" />
+            <marker date="1540879163000" expanded="true" signature="485:2727" ph="{...}" />
+            <marker date="1540879163000" expanded="true" signature="488:723" ph="/* STEP 2: ============================================================================================ ... */" />
+            <marker date="1540879163000" expanded="true" signature="1230:1321" ph="{...}" />
+            <marker date="1540879163000" expanded="true" signature="1339:2724" ph="{...}" />
+            <marker date="1540879163000" expanded="true" signature="1370:1402" ph="{...}" />
+            <marker date="1540879163000" expanded="true" signature="1470:2588" ph="{...}" />
+            <marker date="1540879163000" expanded="true" signature="1677:1722" ph="{...}" />
+            <marker date="1540879163000" expanded="true" signature="1841:1887" ph="{...}" />
+            <marker date="1540879163000" expanded="true" signature="2046:2170" ph="{...}" />
+            <marker date="1540879163000" expanded="true" signature="2174:2254" ph="/* end elseIf ... */" />
+            <marker date="1540879163000" expanded="true" signature="2592:2681" ph="/* Else: ... */" />
+            <marker date="1540879163000" expanded="true" signature="2688:2720" ph="{...}" />
+            <marker date="1540879163000" expanded="true" signature="2728:2781" ph="/* end of class scope ... */" />
+            <marker date="1540879163000" expanded="true" signature="2786:3508" ph="/* STEP 3: ===================================================================================== ... */" />
+            <marker date="1540879163000" expanded="true" signature="3512:3910" ph="/* STEP 4: ====================================================================================== ... */" />
+            <marker date="1540879163000" expanded="true" signature="3914:4344" ph="/* STEP 5: =================================================================================== ... */" />
+            <marker date="1540879163000" expanded="true" signature="4348:5218" ph="/* STEP 6:  ===================================================================================== ... */" />
+            <marker date="1540879163000" expanded="true" signature="5222:6487" ph="/* OPTIONAL EXTRA TASKS TO DO, IF YOU WANT: =================================================== ... */" />
           </folding>
         </state>
       </provider>
